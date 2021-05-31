@@ -22,3 +22,5 @@ git remote set-url origin git://git@192.168.1.20:MyGroup/MyProject.git
 
 
 Undo commited changes but not pushed: git reset --soft HEAD~;
+
+Whenever assembly errors occor from main project copy csproj file item group>> package references to main project from submodule
