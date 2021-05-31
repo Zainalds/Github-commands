@@ -18,3 +18,7 @@ git fetch origin
 Rename remote Url so submodule has uppercase convention:
 
 git remote set-url origin git://git@192.168.1.20:MyGroup/MyProject.git
+
+
+
+Undo commited changes but not pushed: git reset --soft HEAD~;
